@@ -1,6 +1,8 @@
 DESPLIEGUE DE MAQUINAS CON VAGRANT
 ----
 En este documento se va ha explicar como desplegar las siguientes maquinas y su contenido.
+> [!IMPORTANT]
+> Es importante que se tenga [VirtualBox](https://www.virtualbox.org/) instalado para poder usarlo como ***provider*** para interactuar y gestionar las maquinas virtuales que se creen.
 
 1. [Ubuntu 22.04 con GlobalProtect 6.0.7 y Eduroam](./Vagrantfile)
 
