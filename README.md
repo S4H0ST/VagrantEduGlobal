@@ -36,5 +36,5 @@ Al final de la instalación, introducimos las credenciales institucionales de la
 
 Para el globalProtect basta con ejecutar ```globalprotect```.
 
->[!TIP]
+>[!NOTE]
 > Todos los archivos descargados se encuentran en la carpeta ```./vagrant```.
